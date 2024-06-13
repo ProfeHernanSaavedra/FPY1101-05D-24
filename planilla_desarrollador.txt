@@ -1,0 +1,12 @@
+Nombre y Apellido : desarrollador
+Cargo : desarrollador
+Sueldo Bruto : $1500000
+Desc. Saludo : $105000.00000000001
+Desc. AFP : $180000.0
+Liquido a Pagar : $1215000.0
+Nombre y Apellido : cc cc
+Cargo : desarrollador
+Sueldo Bruto : $1500000
+Desc. Saludo : $105000.00000000001
+Desc. AFP : $180000.0
+Liquido a Pagar : $1215000.0
